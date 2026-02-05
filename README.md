@@ -8,3 +8,5 @@ Disclaimer: the original connected vehicle and travel demand data used for the d
 The remaining columns have been obtained from the public sources listed in the article.
 
 `u`, `v` and `key` are used to identify each edge.
+
+Since the notebook loads the synthetic data, the results will not be the same as those reported on the paper.
