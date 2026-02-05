@@ -1,0 +1,6 @@
+Model,Preprocessing,Score R2,MAE,MSE
+RandomForest,Normalization + Overesampling,0.433,0.422,0.607
+RandomForest,Overesampling,0.4,0.439,0.642
+SVR,Normalization + Overesampling,0.391,0.426,0.652
+SVR,Normalization + Expanded Overesampling,0.387,0.419,0.656
+SVR,Expanded Overesampling,0.376,0.416,0.668
